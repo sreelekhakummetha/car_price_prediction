@@ -9,7 +9,7 @@ to predict car selling prices.
 - Scikit-learn
 - Pandas
 - HTML, CSS
-install all requirements:
+## install all requirements:
 -python
 -flask
 -pandas
