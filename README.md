@@ -9,13 +9,8 @@ to predict car selling prices.
 - Scikit-learn
 - Pandas
 - HTML, CSS
-## install all requirements:
--python
--flask
--pandas
--numpy
--scikit-learn
-  
-## How to Run
 
+## How to Run
+```bash
+pip install -r requirements.txt
 python app.py
